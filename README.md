@@ -12,7 +12,7 @@
 
 # repo20260209
 
-FastAPIを使った"hello world"を返すシンプルなAPIアプリケーション
+FastAPIを使った、現在時刻（UTC）を返すシンプルなAPIアプリケーション
 
 ## プロジェクト構成
 
